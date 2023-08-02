@@ -1,0 +1,3 @@
+[submodule "CUDA/custoch"]
+	path = CUDA/custoch
+	url = https://github.com/MarcinBaranek/custoch
