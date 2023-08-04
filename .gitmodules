@@ -1,3 +1,6 @@
 [submodule "CUDA/custoch"]
 	path = CUDA/custoch
 	url = https://github.com/MarcinBaranek/custoch
+[submodule "Sandbox/Battleship"]
+	path = Sandbox/Battleship
+	url = https://github.com/MarcinBaranek/Battleship

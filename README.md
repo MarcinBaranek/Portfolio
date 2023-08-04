@@ -1,5 +1,13 @@
 # Portfolio
-This Repository is a table of contents of my projects done outside the commercial hours.
+
+## [SandBox](https://github.com/MarcinBaranek/Portfolio/tree/master/Sandbox)
+
+---
+
+The directory contains demo projects. Any project in the sandbox is focusing on the leaning new technologies and show how I can write production-like code in the different programming languages.
+
+**TECHNOLOGIES:**
+* TBD
 
 ## [CUDA related projects](https://github.com/MarcinBaranek/Portfolio/tree/master/CUDA)
 
