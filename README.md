@@ -25,3 +25,11 @@ Allow to Approximation stochastic differential equation using GPU.
   * [Fundamentals of Accelerated Data Science](https://github.com/MarcinBaranek/Portfolio/blob/master/Certificates/NVIDIA_Fundamentals_of_Accelerated_Data_Science.pdf)
   * [Fundamentals of Deep Learning for Computer Vision](https://github.com/MarcinBaranek/Portfolio/blob/master/Certificates/NVIDIA_Fundamentals_of_Deep_Learning_for_Computer_Vision.pdf)
   * [Getting started with Deep Learning](https://github.com/MarcinBaranek/Portfolio/blob/master/Certificates/NVIDIA_Getting_started_with_Deep_Learning.pdf)
+
+
+### [Confs](https://github.com/MarcinBaranek/Portfolio/tree/master/Confs)
+
+---
+
+The Directory contains configurations files with tools that I use.
+* [tmux](https://github.com/tmux/tmux/wiki)
