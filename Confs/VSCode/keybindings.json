@@ -1,0 +1,40 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+alt+d",
+        "command": "editor.action.removeDuplicateLines"
+    },
+    {
+        "key": "cmd+d",
+        "command": "editor.action.addSelectionToNextFindMatch",
+        "when": "editorFocus"
+    },
+    {
+        "key": "cmd+d",
+        "command": "-editor.action.addSelectionToNextFindMatch",
+        "when": "editorFocus"
+    },
+    {
+        "key": "ctrl+shift+down",
+        "command": "workbench.action.quickSwitchWindow"
+    },
+    {
+        "key": "cmd+'",
+        "command": "workbench.action.terminal.focus"
+    },
+    {
+        "key": "cmd+'",
+        "command": "workbench.action.focusActiveEditorGroup"
+    },
+    {
+        "key": "cmd+/",
+        "command": "extension.multiCommand.execute",
+        "args": {
+          "sequence": [
+            "editor.action.commentLine",
+            "cursorDown"
+          ]
+        },
+        "when": "editorTextFocus"
+      }
+]

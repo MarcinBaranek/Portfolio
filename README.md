@@ -41,3 +41,4 @@ Allow to Approximation stochastic differential equation using GPU.
 
 The Directory contains configurations files with tools that I use.
 * [tmux](https://github.com/tmux/tmux/wiki)
+* [vscode](https://code.visualstudio.com)
