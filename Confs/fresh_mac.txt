@@ -1,0 +1,17 @@
+mkdir code
+
+# Generate SHH key
+ssh-keygen -t rsa
+pbcopy < ~/.ssh/id_rsa.pub
+
+# download repositories
+git clone <>
+
+# Install brew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/marcinbaranek/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
+# Install latex
+brew install basictex
+# install packages using tlmgr
