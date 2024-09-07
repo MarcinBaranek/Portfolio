@@ -4,3 +4,6 @@
 [submodule "Sandbox/Battleship"]
 	path = Sandbox/Battleship
 	url = https://github.com/MarcinBaranek/Battleship
+[submodule "LeetCode"]
+	path = LeetCode
+	url = git@github.com:MarcinBaranek/LeetCode.git
