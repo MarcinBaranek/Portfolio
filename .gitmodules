@@ -13,3 +13,6 @@
 [submodule "python_contest"]
 	path = python_contest
 	url = git@github.com:MarcinBaranek/python_contest.git
+[submodule "Research"]
+	path = Research
+	url = git@github.com:MarcinBaranek/Research.git
