@@ -1,9 +1,12 @@
 [submodule "CUDA/custoch"]
 	path = CUDA/custoch
 	url = https://github.com/MarcinBaranek/custoch
-[submodule "Sandbox/Battleship"]
-	path = Sandbox/Battleship
-	url = https://github.com/MarcinBaranek/Battleship
 [submodule "LeetCode"]
 	path = LeetCode
 	url = git@github.com:MarcinBaranek/LeetCode.git
+[submodule "AdventOfCode"]
+	path = AdventOfCode
+	url = git@github.com:MarcinBaranek/AdventOfCode.git
+[submodule "Patchwork"]
+	path = Patchwork
+	url = git@github.com:MarcinBaranek/Patchwork.git
