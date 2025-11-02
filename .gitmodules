@@ -10,3 +10,6 @@
 [submodule "Patchwork"]
 	path = Patchwork
 	url = git@github.com:MarcinBaranek/Patchwork.git
+[submodule "python_contest"]
+	path = python_contest
+	url = git@github.com:MarcinBaranek/python_contest.git
